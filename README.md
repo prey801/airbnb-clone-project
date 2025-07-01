@@ -1,7 +1,5 @@
 # Airbnb Clone Project
 
-# Airbnb Clone Project
-
 ## About the Project
 The Airbnb Clone Project is a comprehensive full-stack application designed to replicate key functionalities of the Airbnb platform. It allows users to register, list properties, make bookings, leave reviews, and process payments. This project emphasizes backend systems, secure API development, and CI/CD integration in a collaborative, industry-style development environment.
 
